@@ -1,4 +1,4 @@
-# Hi there, I'm FLavien - [Mflavien01](https://github.com/Mflavien01) 👋
+# Hi there, I'm Flavien - [Mflavien01](https://github.com/Mflavien01) 👋
 ## I'm French 🇫🇷
 
 ## I'm in high school📚 and Developper in my spare time💻
