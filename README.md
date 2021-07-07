@@ -4,7 +4,7 @@
 ## I'm in high school📚 and Developper in my spare time💻
 - 👨‍💻 I’m currently working on `HTML`, `CSS` and `React Native`!
 - 🔍 I’m currently learning `python`, `jQuery` and `React Native`
-- <img align="left" alt="keschool" height="26px" src="https://key4school.herokuapp.com/static/image/logo/favicon.png?v=2" /> <p align="right">I'm currently developping [Key4School](https://key4school.herokuapp.com/) with [Key4School Organization](https://github.com/Key4School).</p>
+- <img align="left" alt="keschool" height="2px" src="https://key4school.herokuapp.com/static/image/logo/favicon.png?v=2" /> <p>I'm currently developping [Key4School](https://key4school.herokuapp.com/) with [Key4School Organization](https://github.com/Key4School).</p>
 
 ### Languages and tools:
 <a href="https://github.com/Mflavien01">
