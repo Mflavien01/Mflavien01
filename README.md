@@ -17,7 +17,8 @@
 <img align="left" alt="MySQL" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" height="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="GitHub" height="26px" src="https://bulma.io/images/bulma-logo.png" />
+<img align="left" alt="bulma" height="26px" src="https://bulma.io/images/bulma-logo.png" />
+<img align="left" alt="monkeyC" height="26px" src="https://developer.garmin.com/connect-iq/resources/programmers-guide/smart-monkey.png" />
 <br />
 </a>
 <br />
