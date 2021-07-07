@@ -2,7 +2,7 @@
 ## I'm French 🇫🇷
 
 ## I'm in high school📚 and Developper in my spare time💻
-- 👨‍💻 I’m currently working on `HTML` and `CSS` with `Bulma`!
+- 👨‍💻 I’m currently working on `HTML`, `CSS` and `React Native`!
 - 🔍 I’m currently learning `python`, `jQuery` and `React Native`
 - 🌐 I'm currently developping the [Instablog](http://les-codeurs-lbp.bourseguin.fr/instablog) with [Bapt05](https://github.com/Bapt05) and [tib500](https://github.com/tib500)
 
