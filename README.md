@@ -26,3 +26,5 @@
 
 <a href="https://github.com/Mflavien01"><img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mflavien01&layout=compact&custom_title=Mflavien01's GitHub Stats&show_icons=true&title_color=f0f&icon_color=ff0&text_color=9f9f9f&bg_color=0d1117" /></a>
 <a href="https://github.com/Mflavien01?tab=repositories"><img align="left" alt="Favorite languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mflavien01&layout=default&show_icons=true&title_color=fff&text_color=9f9f9f&bg_color=0d1117"  /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mflavien01&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+
