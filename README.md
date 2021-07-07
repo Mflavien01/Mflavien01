@@ -21,7 +21,10 @@
 <img align="left" alt="GitHub" height="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img align="left" alt="monkeyC" height="26px" src="https://developer.garmin.com/connect-iq/resources/programmers-guide/smart-monkey.png" />
+<img align="left" alt="flask" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png" />
+  <img align="left" alt="flask" height="26px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/MongoDB-Logo.svg/1280px-MongoDB-Logo.svg.png" />
 <br />
+  
 </a>
 <br />
 <br />
