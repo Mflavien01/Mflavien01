@@ -22,7 +22,9 @@
 
 <img align="left" alt="monkeyC" height="26px" src="https://developer.garmin.com/connect-iq/resources/programmers-guide/smart-monkey.png" />
 <img align="left" alt="flask" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png" />
-  <img align="left" alt="flask" height="26px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/MongoDB-Logo.svg/1280px-MongoDB-Logo.svg.png" />
+  <img align="left" alt="mongoDB" height="26px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/MongoDB-Logo.svg/1280px-MongoDB-Logo.svg.png" />
+  <img align="left" alt="Linux" height="26px" src="http://assets.stickpng.com/images/58480e82cef1014c0b5e4927.png" />
+  <img align="left" alt="Batch Files" height="26px" src="https://image.flaticon.com/icons/png/512/28/28788.png" />
 <br />
   
 </a>
