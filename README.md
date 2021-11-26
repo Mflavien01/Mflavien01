@@ -3,7 +3,7 @@
 
 ## I'm in high school📚 and Developper in my spare time💻
 - 👨‍💻 I’m currently working on `HTML`, `CSS` and `Javascripte`!
-- 🔍 I’m currently learning `python`, `jQuery` and `React App`
+- 🔍 I’m currently learning `React App`
 - 🌐I'm currently developping [Key4School](https://key4school.herokuapp.com/) with [Key4School Organization](https://github.com/Key4School) <img  alt="key4school" height="20px" src="https://github.com/Key4School/Key4School/blob/main/static/image/logo/favicon.png" /> 
 
 ### Languages and tools:
@@ -25,6 +25,7 @@
   <img align="left" alt="mongoDB" height="26px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/MongoDB-Logo.svg/1280px-MongoDB-Logo.svg.png" />
   <img align="left" alt="Linux" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" />
   <img align="left" alt="Batch Files" height="26px" src="https://image.flaticon.com/icons/png/512/28/28788.png" />
+  <img align="left" alt="SEO" height="26px" src="https://i0.wp.com/abcdigitaltouch.fr/wp-content/uploads/2020/06/refrencement-naturel-seo.png?fit=1024%2C509&ssl=1" />
 <br />
   
 </a>
