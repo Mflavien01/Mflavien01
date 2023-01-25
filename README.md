@@ -1,7 +1,7 @@
 # Hi there, I'm Flavien - [Mflavien01](https://github.com/Mflavien01) 👋
 ## I'm French 🇫🇷
 
-## I'm in intensive two-year study course preparing for the competitive entrance examinations to the French ‘Grandes Écoles’ (the top French and highly-selective institutions)📚 and Developer in my spare time💻
+## I'm a student and Developer in my spare time💻
 - 👨‍💻 I’m currently working on `Typescript`, `Svelte` and `css`!
 <!-- - 🔍 I’m currently learning `Svelte` and `C++` -->
 - 🌐I'm currently developping [Key4School](https://key4school.herokuapp.com/) with [Key4School Organization](https://github.com/Key4School) <img  alt="key4school" height="20px" src="https://github.com/Key4School/Key4School/blob/main/static/image/logo/favicon.png" /> 
