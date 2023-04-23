@@ -4,7 +4,7 @@
 ## I'm a student and Developer in my spare time💻
 - 👨‍💻 I’m currently working on `Typescript`, `Svelte` and `css`!
 <!-- - 🔍 I’m currently learning `Svelte` and `C++` -->
-- 🌐I'm currently developping [Key4School](https://key4school.herokuapp.com/) with [Key4School Organization](https://github.com/Key4School) <img  alt="key4school" height="20px" src="https://github.com/Key4School/Key4School/blob/main/static/image/logo/favicon.png" /> 
+<!--- 🌐I'm currently developping [Key4School](https://key4school.herokuapp.com/) with [Key4School Organization](https://github.com/Key4School) <img  alt="key4school" height="20px" src="https://github.com/Key4School/Key4School/blob/main/static/image/logo/favicon.png" /> -->
 
 ### Languages and tools:
 <a href="https://github.com/Mflavien01">
