@@ -1,3 +1,4 @@
+
 # Hi there, I'm Flavien - [Mflavien01](https://github.com/Mflavien01) 👋
 ## I'm French 🇫🇷
 
@@ -17,5 +18,4 @@
 
 
 <a href="https://github.com/Mflavien01"><img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mflavien01&layout=compact&custom_title=Mflavien01's GitHub Stats&show_icons=true&title_color=f0f&icon_color=ff0&text_color=9f9f9f&bg_color=0d1117" /></a>
-<a href="https://github-readme-stats.vercel.app/api?username=Mflavien01&layout=compact&custom_title=Mflavien01%27s%20GitHub%20Stats&show_icons=true&title_color=f0f&icon_color=ff0&text_color=9f9f9f&bg_color=0d1117"  /></a>
-
+<a href="https://github.com/Mflavien01?tab=repositories"><img align="left" alt="Favorite languages" src="https://github-readme-stats.vercel.app/api?username=Mflavien01&layout=compact&custom_title=Mflavien01%27s%20GitHub%20Stats&show_icons=true&title_color=f0f&icon_color=ff0&text_color=9f9f9f&bg_color=0d1117"  /></a>
