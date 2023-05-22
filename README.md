@@ -3,8 +3,7 @@
 ## I'm French 🇫🇷
 
 ## I'm enrolled in a two-year post-baccalaureate course that is intensive for students, and I develop software in my spare💻
-- 👨‍💻 I’m currently working on `Typescript`, `Svelte` and `css`!
-<!-- - 🔍 I’m currently learning `Svelte` and `C++` -->
+- 👨‍💻 I'm currently working on an `AI cover letter generation` with [OpenAI-Web-Creations Organization](https://github.com/OpenAI-Web-Creations)
 
 - 🌐 I developped [Key4School](https://key4school.com/) with [Key4School Organization](https://github.com/Key4School) <img  alt="key4school" height="20px" src="https://github.com/Key4School/Key4School/blob/main/static/image/logo/favicon.png" />
 
