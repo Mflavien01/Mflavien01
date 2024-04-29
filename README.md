@@ -8,11 +8,11 @@
 - 🌐 I developped [`Key4School`](https://key4school.netlify.app/) with [Key4School Organization](https://github.com/Key4School) <img  alt="key4school" height="20px" src="https://github.com/Key4School/Key4School/blob/main/static/image/logo/favicon.png" />
 
 ## My Skills:
-[![My Skills](https://skillicons.dev/icons?i=arduino,bash,css,flask,figma,firebase,html,js,jquery,mongodb,mysql,nodejs,php,py,raspberrypi,regex,react,selenium,svelte,tailwind,vercel,vite,vue&theme=dark)](https://github.com/Mflavien01)
+[![My Skills](https://skillicons.dev/icons?i=arduino,bash,css,flask,figma,firebase,html,js,jquery,mongodb,mysql,nodejs,php,py,raspberrypi,regex,react,selenium,svelte,tailwind,vue&theme=dark)](https://github.com/Mflavien01)
 
 ## My Tools:
 
-[![My Tools](https://skillicons.dev/icons?i=codepen,git,github,heroku,netlify,stackoverflow,vscode,figma&theme=dark)](https://github.com/Mflavien01)
+[![My Tools](https://skillicons.dev/icons?i=codepen,git,github,heroku,netlify,stackoverflow,vscode,figma,linux,windows,notion&theme=dark)](https://github.com/Mflavien01)
 ---
 
 
