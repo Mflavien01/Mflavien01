@@ -12,7 +12,7 @@
 
 ## My Tools:
 
-[![My Tools](https://skillicons.dev/icons?i=atom,codepen,github,heroku,netlify,stackoverflow,vscode&theme=dark)](https://github.com/Mflavien01)
+[![My Tools](https://skillicons.dev/icons?i=codepen,git,github,heroku,netlify,stackoverflow,vscode,figma&theme=dark)](https://github.com/Mflavien01)
 ---
 
 
