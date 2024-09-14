@@ -2,7 +2,7 @@
 # Hi there, I'm Flavien - [Mflavien01](https://github.com/Mflavien01) 👋
 ## I'm French 🇫🇷
 
-## I'm enrolled in a two-year post-baccalaureate course that is intensive for students, and I develop software in my spare💻
+## I am studying computer engineering at EURECOM, and I develop software in my spare💻
 - 👨‍💻 I'm currently working on an [`AI cover letter generation`](https://coverturbo.com/) with [OpenAI-Web-Creations Organization](https://github.com/OpenAI-Web-Creations)
 
 - 🌐 I developped [`Key4School`](https://key4school.netlify.app/) with [Key4School Organization](https://github.com/Key4School) <img  alt="key4school" height="20px" src="https://github.com/Key4School/Key4School/blob/main/static/image/logo/favicon.png" />
